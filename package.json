@@ -1,15 +1,18 @@
 {
-  "name": "project",
+  "name": "data-base",
   "version": "1.0.0",
-  "main": "login.js",
+  "main": "index.js",
   "scripts": {
-    "start":"json-server --watch Database.json --host 0.0.0.0 --port $PORT"
-  },
-  "dependencies": {
-    "json-server":"^0.17.0"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.3"
+  }
 }
