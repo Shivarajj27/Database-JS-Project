@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "login.js",
+  "scripts": {
+    "start":"json-server --watch Database.json --host 0.0.0.0 --port $PORT"
+  },
+  "dependencies": {
+    "json-server":"^0.17.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
