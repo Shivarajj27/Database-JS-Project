@@ -5,7 +5,7 @@
             "movie": "bachelor",
             "songname": "adiye",
             "artist": "Dhibu Ninan Thomas",
-            "url": "./project/Asset/adiye bachelor.mp3",
+            "url": "./project/Asset/adiye_bachelor.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/bachelor.jpg?raw=true"
         },
         {
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "movie": "premikudu",
-            "songname": "andhamaina premarani",
+            "songname": "andhamaina_premarani",
             "artist": "S.P.Balasubramanyam",
             "url": "./project/Asset/andhamaina premarani.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikudu.jpg?raw=true"
@@ -37,7 +37,7 @@
             "movie": "bharateeyudu",
             "songname": "pachani chilukalu",
             "artist": "K.J.Yesudasu",
-            "url": "./project/Asset/pachchani chilukalu.mp3",
+            "url": "./project/Asset/pachchani_chilukalu.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/bharateeyudu.jpg?raw=true"
         },
         {
@@ -45,15 +45,15 @@
             "movie": "hridayam",
             "songname": "darshana",
             "artist": "karthik",
-            "url": "./project/Asset/darshana hridayam.mp3",
+            "url": "./project/Asset/darshana_hridayam.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/hridayam.jpg?raw=true"
         },
         {
             "id": 7,
             "movie": "raahu",
-            "songname": "emo emo emo",
+            "songname": "emo emo",
             "artist": "sid sriram",
-            "url": "./project/Asset/emo emo.mp3",
+            "url": "./project/Asset/emo_emo.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/raahu.jpg?raw=true"
         },
         {
@@ -61,7 +61,7 @@
             "movie": "sankranthiki vustunnam",
             "songname": "godari gattu",
             "artist": "ramana gogula",
-            "url": "./project/Asset/godari gattu.mp3",
+            "url": "./project/Asset/godari_gattu.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/sankranthikivasthunnam.jpeg?raw=true"
         },
         {
@@ -69,7 +69,7 @@
             "movie": "orange",
             "songname": "hello rammante",
             "artist": "vijay prakash",
-            "url": "./project/Asset/hello rammante.mp3",
+            "url": "./project/Asset/hello_rammante.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/orange.jpg?raw=true"
         },
         {
@@ -77,7 +77,7 @@
             "movie": "amaran",
             "songname": "hey minnale",
             "artist": "G.V.Prakash",
-            "url": "./project/Asset/Hey Minnale.mp3",
+            "url": "./project/Asset/Hey_Minnale.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/amaran.jpg?raw=true"
         },
         {
@@ -101,7 +101,7 @@
             "movie": "orange",
             "songname": "rooba rooba",
             "artist": "chinmayi",
-            "url": "./project/Asset/rooba rooba.mp3",
+            "url": "./project/Asset/rooba_rooba.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/orange.jpg?raw=true"
         },
         {
@@ -109,7 +109,7 @@
             "movie": "paagal",
             "songname": "saradaga kasepaina",
             "artist": "Radhan,Karthik",
-            "url": "./project/Asset/saradaga kasepaina.mp3",
+            "url": "./project/Asset/saradaga_kasepaina.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/paagal.jpg?raw=true"
         },
         {
@@ -117,7 +117,7 @@
             "movie": "prema desam",
             "songname": "prema prema",
             "artist": "A.R.Rahman",
-            "url": "./project/Asset/prema prema.mp3",
+            "url": "./project/Asset/prema_prema.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premadesam.jpg?raw=true"
         },
         {
@@ -133,7 +133,7 @@
             "movie": "premikudu",
             "songname": "urvasi urvasi",
             "artist": "A.R.Rahman",
-            "url": "./project/Asset/Urvasi Urvasi.mp3",
+            "url": "./project/Asset/Urvasi_Urvasi.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikudu.jpg?raw=true"
         },
         {
@@ -141,7 +141,7 @@
             "movie": "premikula roju",
             "songname": "vaalu kanuladana",
             "artist": "Unni Menon",
-            "url": "./project/Asset/Vaalu Kanuladaanaa.mp3",
+            "url": "./project/Asset/Vaalu_Kanuladaanaa.mp3",
             "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikularoju.jpg?raw=true"
         }
         ]
