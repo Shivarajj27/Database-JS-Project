@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-
+    "start": "json-server --watch Database.json --host 0.0.0.0 --port $PORT"
+  },
+  "dependencies": {
+    "json-server":"^0.17.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.3"
-  }
+  "description": ""
 }
