@@ -6,7 +6,7 @@
             "songname": "adiye",
             "artist": "Dhibu Ninan Thomas",
             "url": "./../project/Asset/adiye_bachelor.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/bachelor.jpg?raw=true"
+            "image": "./../project/img/bachelor.jpg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "songname": "uyire",
             "artist": "Ankit menon",
             "url": "./../project/Asset/Uyirey.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/uyire.jpg?raw=true"
+            "image": "./../project/img/uyire.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "songname": "andhamaina premarani",
             "artist": "S.P.Balasubramanyam",
             "url": "./../project/Asset/andhamaina_premarani.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikudu.jpg?raw=true"
+            "image": "./../project/img/premikudu.jpg"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "songname": "chilipiga",
             "artist": "karthik",
             "url": "./../project/Asset/chilipiga.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/orange.jpg?raw=true"
+            "image": "./../project/img/orange.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "songname": "pachani chilukalu",
             "artist": "K.J.Yesudasu",
             "url": "./../project/Asset/pachchani_chilukalu.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/bharateeyudu.jpg?raw=true"
+            "image": "./../project/img/bharateeyudu.jpg"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "songname": "darshana",
             "artist": "karthik",
             "url": "./../project/Asset/darshana_hridayam.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/hridayam.jpg?raw=true"
+            "image": "./../project/img/hridayam.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "songname": "emo emo",
             "artist": "sid sriram",
             "url": "./../project/Asset/emo_emo.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/raahu.jpg?raw=true"
+            "image": "./../project/img/raahu.jpg"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "songname": "godari gattu",
             "artist": "ramana gogula",
             "url": "./../project/Asset/godari_gattu.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/sankranthikivasthunnam.jpeg?raw=true"
+            "image": "./../project/img/sankranthikivasthunnam.jpeg"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "songname": "hello rammante",
             "artist": "vijay prakash",
             "url": "./../project/Asset/hello_rammante.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/orange.jpg?raw=true"
+            "image": "./../project/img/orange.jpg"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "songname": "hey minnale",
             "artist": "G.V.Prakash",
             "url": "./../project/Asset/Hey_Minnale.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/amaran.jpg?raw=true"
+            "image": "./../project/img/amaran.jpg"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "songname": "musthafa",
             "artist": "A.R.Rahman",
             "url": "./../project/Asset/musthafa.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premadesam.jpg?raw=true"
+            "image": "./../project/img/premadesam.jpg"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "songname": "premalo",
             "artist": "vijay bulganin",
             "url": "./../project/Asset/Premalo.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/court.jpg?raw=true"
+            "image": "./../project/img/court.jpg"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "songname": "rooba rooba",
             "artist": "chinmayi",
             "url": "./../project/Asset/rooba_rooba.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/orange.jpg?raw=true"
+            "image": "./../project/img/orange.jpg"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "songname": "saradaga kasepaina",
             "artist": "Radhan,Karthik",
             "url": "./../project/Asset/saradaga_kasepaina.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/paagal.jpg?raw=true"
+            "image": "./../project/img/paagal.jpg"
         },
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "songname": "prema prema",
             "artist": "A.R.Rahman",
             "url": "./../project/Asset/prema_prema.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premadesam.jpg?raw=true"
+            "image": "./../project/img/premadesam.jpg"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "songname": "sirivennela",
             "artist": "Anurag Kulakarni",
             "url": "./../project/Asset/Sirivennala.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/shyamsingharoy.jpg?raw=true"
+            "image": "./../project/img/shyamsingharoy.jpg"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "songname": "urvasi urvasi",
             "artist": "A.R.Rahman",
             "url": "./../project/Asset/Urvasi_Urvasi.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikudu.jpg?raw=true"
+            "image": "./../project/img/premikudu.jpg"
         },
         {
             "id": 18,
@@ -142,7 +142,7 @@
             "songname": "vaalu kanuladana",
             "artist": "Unni Menon",
             "url": "./../project/Asset/Vaalu_Kanuladaanaa.mp3",
-            "image": "https://github.com/Shivarajj27/Project-JS/blob/main/img/premikularoju.jpg?raw=true"
+            "image": "./../project/img/premikularoju.jpg"
         }
         ]
 }
